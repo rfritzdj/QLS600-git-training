@@ -6,6 +6,8 @@ github handle: jbpoline
 I work on ... in ... laboratory
 email: 
 github handle: 
+# Xiaotian Hua
+I work on marine ecology problems using mathematical models in the Guichard Lab.
 # Kailu Song
 email:kailu.song@mail.mcgill.ca
 github handle: ksmcu

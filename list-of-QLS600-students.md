@@ -6,7 +6,9 @@ github handle: jbpoline
 I work on ... in ... laboratory
 email: 
 github handle: 
-# please continue here !
+# Kailu Song
+email:kailu.song@mail.mcgill.ca
+github handle: ksmcu
 # Joon Hwan Hong
 I work on neuroinformatics in the ORIGAMI lab.
 email: joonh@bic.mni.mcgill.ca

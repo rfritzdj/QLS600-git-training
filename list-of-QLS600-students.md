@@ -7,3 +7,9 @@ I work on ... in ... laboratory
 email: 
 github handle: 
 # please continue here !
+
+# Chen-Yang Su
+I work on applied machine learning to inform decisions in healthcare.
+email: chen-yang.su@mail.mcgill.ca
+github handle: chenyangsu
+

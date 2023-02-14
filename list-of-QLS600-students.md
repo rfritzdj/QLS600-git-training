@@ -2,10 +2,10 @@
 I work on teaching open and reproducible neuroscience.
 email: jean-baptiste.poline@mcgill.ca
 github handle: jbpoline
-# Jane Doe
-I work on ... in ... laboratory
-email: 
-github handle: 
+# Shucheng Cao
+I work on RNA transcriptomics in Ian Waston's laboratory
+email: shucheng.cao@mail.mcgill.ca
+github handle: Bangli666
 # Xiaotian Hua
 I work on marine ecology problems using mathematical models in the Guichard Lab.
 # Kailu Song

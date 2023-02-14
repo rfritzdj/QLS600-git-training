@@ -11,6 +11,11 @@ github handle: FlemmingKondrup
 I work on ... in ... laboratory
 email: 
 github handle: 
+# please continue here !
+# Maximiliane Jousse
+I work on big data, climate patterns and bird distriubtion in the Laura Pollock Lab
+email: maximiliane.jousse@mail.mcgill.ca
+github handle: MJousse
 # Chen-Yang Su
 I work on applied machine learning to inform decisions in healthcare.
 email: chen-yang.su@mail.mcgill.ca

@@ -2,6 +2,11 @@
 I work on teaching open and reproducible neuroscience.
 email: jean-baptiste.poline@mcgill.ca
 github handle: jbpoline
+# Flemming Kondrup
+I work on reinforcement learning for healthcare in Doina Precup's laboratory
+email: flemming.kondrup@mail.mcgill.ca
+github handle: FlemmingKondrup
+# please continue here !
 # Jane Doe
 I work on ... in ... laboratory
 email: 
@@ -23,3 +28,4 @@ github handle: ksmcu
 I work on neuroinformatics in the ORIGAMI lab.
 email: joonh@bic.mni.mcgill.ca
 github handle: Joon-Hwan-Hong
+

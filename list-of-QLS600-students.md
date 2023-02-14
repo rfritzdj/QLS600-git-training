@@ -6,12 +6,6 @@ github handle: jbpoline
 I work on reinforcement learning for healthcare in Doina Precup's laboratory
 email: flemming.kondrup@mail.mcgill.ca
 github handle: FlemmingKondrup
-# please continue here !
-# Jane Doe
-I work on ... in ... laboratory
-email: 
-github handle: 
-# please continue here !
 # Maximiliane Jousse
 I work on big data, climate patterns and bird distriubtion in the Laura Pollock Lab
 email: maximiliane.jousse@mail.mcgill.ca

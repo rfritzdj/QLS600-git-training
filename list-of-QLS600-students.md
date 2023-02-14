@@ -6,4 +6,7 @@ github handle: jbpoline
 I work on ... in ... laboratory
 email: 
 github handle: 
-# please continue here !
+# Calvin Surbey
+I work on motor control in the cerebellum in the Watt lab.
+email: calvin.surbey@mail.mcgill.ca
+github handle: csursald

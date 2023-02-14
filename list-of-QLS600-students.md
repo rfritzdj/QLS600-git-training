@@ -11,6 +11,10 @@ github handle: FlemmingKondrup
 I work on ... in ... laboratory
 email: 
 github handle: 
+# Chen-Yang Su
+I work on applied machine learning to inform decisions in healthcare.
+email: chen-yang.su@mail.mcgill.ca
+github handle: chenyangsu
 # Sean Moore
 I work in the Weber lab looking at worms! 
 email: sean.moore3@mail.mcgill.ca

@@ -8,6 +8,11 @@ I work on multi-modal modelling of Alzheimer's Disease.
 email: joonh@bic.mni.mcgill.ca
 github handle: Joon-Hwan-Hong
 
+# Alina Tan
+I work on finding casual genes via protein interactors
+email: dandan.tan@mail.mcgill.ca
+github handle: AlinaTan77
+
 # César Miguel Valdez Córdova
 I work on ML for biology.
 email: cesar.valdezcordova@mail.mcgill.ca

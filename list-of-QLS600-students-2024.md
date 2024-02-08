@@ -7,3 +7,8 @@ github handle: jbpoline
 I work on multi-modal modelling of Alzheimer's Disease.
 email: joonh@bic.mni.mcgill.ca
 github handle: Joon-Hwan-Hong
+
+# Rian Fritz D. Jalandoni
+I work on computational modelling and dynamical systems
+email: rian.jalandoni@mail.mcgill.ca
+github handle: rfritzdj

@@ -28,6 +28,12 @@ I work on analyzing relationships between cell shape and cell migration.
 email: lydia.hodgins@mail.mcgill.ca
 github handle: hodginsl
 
+
+# Rian Fritz D. Jalandoni
+I work on Computational Modelling and Dynamical systems on Brain
+email: rian.jalandoni@mail.mcgill.ca
+github handle: rfritzdj
+
 # Alina Tan
 I work on finding casual genes via protein interactors
 email: dandan.tan@mail.mcgill.ca

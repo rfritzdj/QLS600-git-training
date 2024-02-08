@@ -8,6 +8,11 @@ I work on multi-modal modelling of Alzheimer's Disease.
 email: joonh@bic.mni.mcgill.ca
 github handle: Joon-Hwan-Hong
 
+# Lydia Hodgins
+I work on analyzing relationships between cell shape and cell migration.
+email: lydia.hodgins@mail.mcgill.ca
+github handle: hodginsl
+
 # Alina Tan
 I work on finding casual genes via protein interactors
 email: dandan.tan@mail.mcgill.ca

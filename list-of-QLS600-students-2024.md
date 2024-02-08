@@ -8,6 +8,11 @@ I work on multi-modal modelling of Alzheimer's Disease.
 email: joonh@bic.mni.mcgill.ca
 github handle: Joon-Hwan-Hong
 
+# Megan Ng
+I work on being B) everyday.
+email: megan.ng@mail.mcgill.ca
+gitHub handle: megan-ng
+
 # Ryan Huang
 I work on theoretical neuroscience.
 email: ryan.huang1@mail.mcgill.ca

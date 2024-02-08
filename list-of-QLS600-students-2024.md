@@ -7,3 +7,8 @@ github handle: jbpoline
 I work on multi-modal modelling of Alzheimer's Disease.
 email: joonh@bic.mni.mcgill.ca
 github handle: Joon-Hwan-Hong
+
+# Ryan Huang
+I work on theoretical neuroscience.
+email: ryan.huang1@mail.mcgill.ca
+github handle: Raynhuang

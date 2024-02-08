@@ -8,6 +8,11 @@ I work on multi-modal modelling of Alzheimer's Disease.
 email: joonh@bic.mni.mcgill.ca
 github handle: Joon-Hwan-Hong
 
+# Ryan Huang
+I work on theoretical neuroscience.
+email: ryan.huang1@mail.mcgill.ca
+github handle: Raynhuang
+
 # Ioannidis Duchastel-Vassaramva
 I work on Lab-on-a-chip devices related to cancer
 email: Ioannidis.duchastel-vassaramva@mail.mcgill.ca
@@ -32,4 +37,3 @@ github handle: cmvcordova
 I am a student in QLS 2023 batch. I am currently doing my 2nd rotation with Prof. Daniel Gutton.
 email: ashim.pandey@mail.mcgill.ca
 github handle: ashimpandey
-
